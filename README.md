@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @BajranGun
+- 👀 I’m interested in ... Python and Unity
+- 🌱 I’m currently learning ... Tkinter with python and game development with unity
